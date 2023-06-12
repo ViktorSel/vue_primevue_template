@@ -35,9 +35,9 @@ export default {
             mobileMenuActive: false,
             menu : [
                 {
-                    label: 'Home',
+                    label: '',
                     items: [{
-                        label: 'Dashboard', icon: 'pi pi-fw pi-home', to: '/'
+                        label: 'Главная', icon: 'pi pi-fw pi-home', to: '/'
                     }]
                 },
 				{
