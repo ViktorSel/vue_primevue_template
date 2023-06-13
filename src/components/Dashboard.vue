@@ -336,6 +336,8 @@
 			</li>
 		  </ul>
 		</div>
+
+
 		<div
 		  class="px-4 py-5 shadow-2 flex flex-column md:flex-row md:align-items-center justify-content-between mb-3"
 		  style="
@@ -356,13 +358,15 @@
 		  </div>
 		  <div class="mt-4 mr-auto md:mt-0 md:mr-0">
 			<a
-			  href="https://www.primefaces.org/primeblocks-vue"
+			  href="#"
 			  class="p-button font-bold px-5 py-3 p-button-warning p-button-rounded p-button-raised"
 			>
 			  Get Started
 			</a>
 		  </div>
 		</div>
+
+
 	  </div>
 	</div>
   </template>
