@@ -352,16 +352,16 @@
 		>
 		  <div>
 			<div class="text-blue-100 font-medium text-xl mt-2 mb-3">
-			  TAKE THE NEXT STEP
+			  Сделай следующий шаг
 			</div>
-			<div class="text-white font-medium text-5xl">Try PrimeBlocks</div>
+			<div class="text-white font-medium text-5xl">Попробуй ЖКХ-ОНЛАЙН</div>
 		  </div>
 		  <div class="mt-4 mr-auto md:mt-0 md:mr-0">
 			<a
 			  href="#"
 			  class="p-button font-bold px-5 py-3 p-button-warning p-button-rounded p-button-raised"
 			>
-			  Get Started
+			  Начать
 			</a>
 		  </div>
 		</div>
